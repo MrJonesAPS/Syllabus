@@ -23,21 +23,32 @@ Any student who does not satisfy this prerequisite must discuss with Mr. Jones. 
 # Course Description & Course Goals
 Building on their foundation of programming skills, Advanced Programming students use object-oriented programming to develop database applications, interactive multimedia applications including game applications, mobile applications, and web applications. Students continue to develop their employability skills as they research pathways for continuing education and careers in the information technology industry and engage in various career-building activities. Contextual instruction and student participation in co-curricular career and technical student organization (CTSO) activities will develop leadership, interpersonal, and career skills. High-quality work-based learning (HQWBL) will provide experiential learning opportunities related to students' career goals and/or interests, integrated with instruction, and performed in partnership with local businesses and organizations.
 
+\pagebreak
 # Tentative Pacing Outline 
-+--------------------------------+-------------------------------------+
-| **Semester 1**                 | **Semester 2**                      |
-+================================+=====================================+
-| Unit 0: Introduction to This   | Unit 4: Data Types and Recursion    |
-| Course                         |                                     |
-|                                | Unit 5: Web and Mobile Applications |
-| Unit 1: Programming with       |                                     |
-| Python Review                  | Unit 6: Games                       |
-|                                |                                     |
-| Unit 2: Object Orientation     |                                     |
-|                                |                                     |
-| Unit 3: Databases              |                                     |
-|                                |                                     |
-+--------------------------------+-------------------------------------+
++-------------------------+----------------+------------------+-----------------+
+| **Unit # Name(s)**      | **Estimated    | **Formative      | **Summative     |
+|                         | Length/Dates** | Assessments      | Assessments     |
+|                         |                | (For Learning)** | (Of Learning)** |
++=========================+================+==================+=================+
+| Unit 0: Introduction    | ? Weeks        | See              | See             |
+| to This Course          |                | "Assessments"    | "Assessments"   |
++-------------------------+----------------+ below            + below           +
+| Unit 1: Python Review   | ? Weeks        |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 2: Object          | ? Weeks        |                  |                 |
+| Orientation             |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 3: Databases       | ? Weeks        |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 4: Data Types and  | ? Weeks        |                  |                 |
+| Recursion               |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 5: Web and Mobile  | ? Weeks        |                  |                 |
+| Applications            |                |                  |                 | 
++-------------------------+----------------+                  +                 +
+| Unit 6: Games           | ? Weeks        |                  |                 |       
++-------------------------+----------------+------------------+-----------------+
 
 # Course Competencies and/or Standards 
 Computer Programming standards are called competencies. The Virginia
@@ -86,7 +97,7 @@ the entire syllabus?" Please use that box to tell me about your favorite animal.
 
 -   Student messages to Mr. Jones must be formal and professional. Mr. Jones will request that students re-write emails that do not meet this standard. [See this link](https://www.indeed.com/career-advice/career-development/format-for-formal-email) for help writing formal emails.
 
-# Industry Credentialing Certification/Licensures
+# Industry Credentialing Certification/Licensure
 
 Credentials are industry certifications to validate student skill
 attainment to a potential employer or college admissions officer. These
@@ -106,8 +117,7 @@ A CTSO is a required co-curricular student professional organization
 that aligns with the course. While some activities may be done during
 class time, others are extracurricular activities. The CTSO for this
 course is called Future Business Leaders of America (FBLA). For
-additional information, see <https://www.vafbla-pbl.org/> or contact Ms.
-Naughton
+additional information, see <https://www.vafbla-pbl.org/> or contact Mr. Welsch.
 
 # Academic Integrity
 
@@ -131,33 +141,41 @@ Failure to abide by the honor code will result in consequences as laid
 out in the student handbook, but at minimum students will earn a zero on
 the relevant assignment.
 
+\pagebreak
 # Grading Overview
+
+## Assessments
+
+The grade in this class is based entirely on summative assessments. Each standard will be assessed twice - once with a written exam and once with a project (usually a coding assignment).
+
+This class utilizes both formative and summative assessments. The teacher will clearly explain which assignments are formative and which are summative. 
+- Formative assessments are assessments **for** learning - these include programming exercises, lab assignments, teacher-guided projects, worksheets, scaffolded programming problems, writing prompts, warmups, exit tickets, and surveys. Feedback will be given for these assignments but they will not impact the final grade. Students should view these assignments as practice.
+
+- Summative assessment are assessments **of** learning - these occur at the end of a teaching unit and after sufficient practice and feedback. These include Tests, quizzes, culminating projects, demonstrations, and research papers.
 
 ## Grade Composition 
 
-The final grade for the course is determined using a "quality points"
-system. Each quarter will represent 20% of the final grade, and the
-final exam will also be worth 20%. Each quarter, students are assessed
-on the categories in the table below.
+Students are assessed in the categories in the table below.
 
 +--------------+-------------+----------------------------------------+
 | **Category** | **Weighted  | **Description**                        |
 |              | Percentage**|                                        |
 +==============+=============+========================================+
-| Projects     | > 50%       | Performance-based                      |
-| and Labs     |             | activities designed to allow the       |
-|              |             | students to practice new skills. These |
-|              |             | are formative assessments.             |
+| Formative    | > 0%        | Performance-based                      |
+| Assessments  |             | activities designed to allow the       |
+|              |             | students to practice new skills.       |
 +--------------+-------------+----------------------------------------+
-|              | > 50%       | The student will demonstrate their     |
+| Summative    | > 100%      | The student will demonstrate their     |
 | Assessments  |             | competency attainment of technical     |
-|              |             | skills. Summative assessments          |
-|              |             | generally combine performance-based    |
+|              |             | skills.                                |
+|              |             | Includes performance-based             |
 |              |             | and theoretical application.           |
 +--------------+-------------+----------------------------------------+
-Each of these categories is evaluated using a points-based system, where larger-effort assignments are worth more points than smaller-effort assignments.
+Summative Assessments are evaluated using a points-based system, where larger-effort assignments are worth more points than smaller-effort assignments.
 
-## Homework - [Policy Implementation Procedure I-11.2 PIP-1 Homework](https://go.boarddocs.com/vsba/arlington/Board.nsf/files/CFTQMG69C32F/$file/I-11.2%20PIP-1%20Homework.pdf) 
+Source: [[School Board Policy I-7.2.3.34 Reporting Student Progress and Grades]{.underline}](https://go.boarddocs.com/vsba/arlington/Board.nsf/files/CSKTRY6F0B32/$file/I-7.2.3.34%20PIP-2%20%20Reporting%20Student%20Progress%20and%20Grades%20(Secondary).pdf)
+
+## Homework - [[Policy Implementation Procedure I-11.2 PIP-1 Homework]{.underline}](https://go.boarddocs.com/vsba/arlington/Board.nsf/files/CFTQMG69C32F/$file/I-11.2%20PIP-1%20Homework.pdf) 
 
 Homework allows students to practice, prepare, study, and extend
 learning. Homework is not assigned as a behavioral consequence.
@@ -169,6 +187,16 @@ learning. Homework is not assigned as a behavioral consequence.
     may be assigned additional work commensurate with the expectations
     of the course.
 
+
+## Retake Policy
+
+All summative assessments have a retake/ revision option after remediation. The higher score (the original or the retake) will be used to calculate the student grade.
+
+In order to qualify for a retake, students must first turn in all formative work for the associated unit.
+
+All tests retakes will be accomplished via a single cumulative exam that will be given at the end of each quarter. Students will choose whether to take some, all, or none of the quarter exam.
+
+Specific instructions, timelines, and formats for project retakes will be provided on a case-by-case basis as determined by the instructor.
 
 ## Final Exam Information
 
@@ -203,8 +231,7 @@ conversation regarding a solution can be discussed.
 
 ## Gradebook
 
-All graded items will be in Canvas, and only Interim/Quarter grades
-will be entered in StudentVUE/Synergy
+All graded summative assessments will be appear in Synergy. Some formative work will be completed in other platforms and will not be viewable on Canvas or Synergy.
 
 ## Grading Policies
 
@@ -311,3 +338,7 @@ Online Curriculum Resources:
 Other Resources:
 
 -   [[Repl.it]{.underline}](https://repl.it/)
+
+# Sexually Explicit Material
+
+The course list of resources provided on this syllabus are those which are planned to be used this school year in this course. As required by Virginia Code, parents/guardians must be notified when instructional resources which contain sexually explicit content are assigned for a classroom assignment at least thirty (30) days prior to the assignment being given to the student. As instructional needs of students may vary, additional resources may be determined to be used for instruction in this course. When this occurs, parents/guardians will also be notified of the use of the resource. Upon receipt of the notification, parents/guardians may ask to review the resource and, if desired, request an alternative resource to be used with their student.

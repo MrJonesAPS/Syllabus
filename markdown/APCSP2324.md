@@ -23,29 +23,52 @@ Any student who does not satisfy this prerequisite must discuss with Mr. Jones. 
 # Course Description & Course Goals
 AP Computer Science Principles offers a multidisciplinary approach to teaching the underlying principles of computation. The course introduces students to the creative aspects of programming, abstractions, algorithms, large data sets, the Internet, cybersecurity concerns, and computing impacts. The course instructional materials are based on concepts outlined by the College Board and prepares students to take the Advanced Placement Computer Science Principles Examination.
 
+\pagebreak
 # Tentative Pacing Outline 
-**NOTE** Sections of this course will rely heavliy on existing high-quality online curricula. For more information about this content, see the syllabi for these two courses:
+**NOTE** Sections of this course will rely heavily on existing high-quality online curricula. For more information about this content, see the syllabi for these two courses:
 
 - [[CodeHS]{.underline}](https://codehs.com/uploads/9fcfd79abacd8ba0f0921ed91ed374cd)
 - [[Code.org + CMU CS Academy]{.underline}](https://drive.google.com/file/d/1jU1g_bLHz_b1joTzNUXP7yuwdvd7c_19/view)
 
-+--------------------------------+-------------------------------------+
-| **Semester 1**                 | **Semester 2**                      |
-+================================+=====================================+
-| Unit 0: Introduction to This   | Unit 5: Data                        |
-| Course                         |                                     |
-|                                | Unit 6: Groups, Lists, and Loops    |
-| Unit 1: Digital Information    |                                     |
-|                                | Unit 7: Complex Conditionals,       |
-| Unit 2: The Internet           |  More Events, and Libraries         |
-|                                |                                     |
-| Unit 3: Intro to Graphics      | Unit 8: Cybersecurity               |
-|                                |                                     |
-| Unit 4: Functions,             | Unit 9: Preparing for the AP Exam   |
-| Mouse Events, Conditionals     | and Performance Task                |
-|                                |                                     |
-|                                | Unit 10: Algorithms                 |
-+--------------------------------+-------------------------------------+
++-------------------------+----------------+------------------+-----------------+
+| **Unit # Name(s)**      | **Estimated    | **Formative      | **Summative     |
+|                         | Length/Dates** | Assessments      | Assessments     |
+|                         |                | (For Learning)** | (Of Learning)** |
++=========================+================+==================+=================+
+| Unit 0: Introduction    | ? Weeks        | See              | See             |
+| to This Course          |                | "Assessments"    | "Assessments"   |
++-------------------------+----------------+ below            + below           +
+| Unit 1: Digital         | ? Weeks        |                  |                 |
+| Information             |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 2: The             | ? Weeks        |                  |                 |
+| Internet                |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 3: Intro to        | ? Weeks        |                  |                 |
+| Graphics                |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 4: Functions, Mouse| ? Weeks        |                  |                 |
+| Events, and Conditionals|                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 5: Data            | ? Weeks        |                  |                 |
+|                         |                |                  |                 | 
++-------------------------+----------------+                  +                 +
+| Unit 6: Groups, Lists,  | ? Weeks        |                  |                 |
+| and Loops               |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 7: Complex         | ? Week         |                  |                 |
+| Conditionals, More      |                |                  |                 |
+| Events, Libraries       |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 8: Cybersecurity   | ? Weeks        |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 9: Preparing       | ? Weeks        |                  |                 |
+| For The AP Exam         |                |                  |                 | 
+| and Performance Task    |                |                  |                 |                  
++-------------------------+----------------+                  +                 +
+| Unit 10: Algorithms     | ? Weeks        |                  |                 |               
++-------------------------+----------------+------------------+-----------------+
 
 # Course Competencies and/or Standards 
 Computer Programming standards are called competencies. You can find the competencies for
@@ -92,7 +115,7 @@ the entire syllabus?" Please use that box to tell me about your favorite animal.
 
 -   Student messages to Mr. Jones must be formal and professional. Mr. Jones will request that students re-write emails that do not meet this standard. [See this link](https://www.indeed.com/career-advice/career-development/format-for-formal-email) for help writing formal emails.
 
-# Industry Credentialing Certification/Licensures
+# Industry Credentialing Certification/Licensure
 
 Credentials are industry certifications to validate student skill
 attainment to a potential employer or college admissions officer. These
@@ -110,8 +133,7 @@ A CTSO is a required co-curricular student professional organization
 that aligns with the course. While some activities may be done during
 class time, others are extracurricular activities. The CTSO for this
 course is called Future Business Leaders of America (FBLA). For
-additional information, see <https://www.vafbla-pbl.org/> or contact Ms.
-Naughton
+additional information, see <https://www.vafbla-pbl.org/> or contact Mr. Welsch.
 
 # Academic Integrity
 
@@ -135,33 +157,41 @@ Failure to abide by the honor code will result in consequences as laid
 out in the student handbook, but at minimum students will earn a zero on
 the relevant assignment.
 
+\pagebreak
 # Grading Overview
+
+## Assessments
+
+The grade in this class is based entirely on summative assessments. Each standard will be assessed twice - once with a written exam and once with a project (usually a coding assignment).
+
+This class utilizes both formative and summative assessments. The teacher will clearly explain which assignments are formative and which are summative. 
+- Formative assessments are assessments **for** learning - these include programming exercises, lab assignments, teacher-guided projects, worksheets, scaffolded programming problems, writing prompts, warmups, exit tickets, and surveys. Feedback will be given for these assignments but they will not impact the final grade. Students should view these assignments as practice.
+
+- Summative assessment are assessments **of** learning - these occur at the end of a teaching unit and after sufficient practice and feedback. These include Tests, quizzes, culminating projects, demonstrations, and research papers.
 
 ## Grade Composition 
 
-The final grade for the course is determined using a "quality points"
-system. Each quarter will represent 20% of the final grade, and the
-final exam will also be worth 20%. Each quarter, students are assessed
-on the categories in the table below.
+Students are assessed in the categories in the table below.
 
 +--------------+-------------+----------------------------------------+
 | **Category** | **Weighted  | **Description**                        |
 |              | Percentage**|                                        |
 +==============+=============+========================================+
-| Projects     | > 50%       | Performance-based                      |
-| and Labs     |             | activities designed to allow the       |
-|              |             | students to practice new skills. These |
-|              |             | are formative assessments.             |
+| Formative    | > 0%        | Performance-based                      |
+| Assessments  |             | activities designed to allow the       |
+|              |             | students to practice new skills.       |
 +--------------+-------------+----------------------------------------+
-|              | > 50%       | The student will demonstrate their     |
+| Summative    | > 100%      | The student will demonstrate their     |
 | Assessments  |             | competency attainment of technical     |
-|              |             | skills. Summative assessments          |
-|              |             | generally combine performance-based    |
+|              |             | skills.                                |
+|              |             | Includes performance-based             |
 |              |             | and theoretical application.           |
 +--------------+-------------+----------------------------------------+
-Each of these categories is evaluated using a points-based system, where larger-effort assignments are worth more points than smaller-effort assignments.
+Summative Assessments are evaluated using a points-based system, where larger-effort assignments are worth more points than smaller-effort assignments.
 
-## Homework - [Policy Implementation Procedure I-11.2 PIP-1 Homework](https://go.boarddocs.com/vsba/arlington/Board.nsf/files/CFTQMG69C32F/$file/I-11.2%20PIP-1%20Homework.pdf) 
+Source: [[School Board Policy I-7.2.3.34 Reporting Student Progress and Grades]{.underline}](https://go.boarddocs.com/vsba/arlington/Board.nsf/files/CSKTRY6F0B32/$file/I-7.2.3.34%20PIP-2%20%20Reporting%20Student%20Progress%20and%20Grades%20(Secondary).pdf)
+
+## Homework - [[Policy Implementation Procedure I-11.2 PIP-1 Homework]{.underline}](https://go.boarddocs.com/vsba/arlington/Board.nsf/files/CFTQMG69C32F/$file/I-11.2%20PIP-1%20Homework.pdf) 
 
 Homework allows students to practice, prepare, study, and extend
 learning. Homework is not assigned as a behavioral consequence.
@@ -178,6 +208,16 @@ learning. Homework is not assigned as a behavioral consequence.
 AP classes provide amazing opportunities to study diverse offerings with the rigor of college level courses.  We want you to do well and succeed in these courses and encourage you to seek out all the support available to make your experience positive.  As an advanced course, we do want to ensure that you are prepared for the content.  As such, students are expected to perform at or above a “C” average. Students will earn extra quality points when they complete the course and Create Task and sit for the external AP examination. Students who complete both on time will be exempt from final examinations for this course. Students who fail to submit the required Create Task will not be eligible to sit for the external examination. Failure to sit for the external examination will result in the loss of the quality point on the school transcript and they will be required to take a final exam on the date specified in the WHS calendar.  If this happens, the final course grade will be an average of the four quarter grades and the final exam grade.
 
 Arlington Public Schools (APS) pays for the examination fees for all AP and IB courses.  Any student who registers for an AP or IB course, but does not take the corresponding exam or complete the required IB internal assessment (IA), will be required to reimburse APS for their examination fee(s).  The cost of each exam is established by the College Board and International Baccalaureate Organization. 
+
+## Retake Policy
+
+All summative assessments have a retake/ revision option after remediation. The higher score (the original or the retake) will be used to calculate the student grade.
+
+In order to qualify for a retake, students must first turn in all formative work for the associated unit.
+
+All tests retakes will be accomplished via a single cumulative exam that will be given at the end of each quarter. Students will choose whether to take some, all, or none of the quarter exam.
+
+Specific instructions, timelines, and formats for project retakes will be provided on a case-by-case basis as determined by the instructor.
 
 ## Final Exam Information
 
@@ -212,8 +252,7 @@ conversation regarding a solution can be discussed.
 
 ## Gradebook
 
-All graded items will be in Canvas, and only Interim/Quarter grades
-will be entered in StudentVUE/Synergy
+All graded summative assessments will be appear in Synergy. Some formative work will be completed in other platforms and will not be viewable on Canvas or Synergy.
 
 ## Grading Policies
 
@@ -320,3 +359,7 @@ Online Curriculum Resources:
 Other Resources:
 
 -   [[Repl.it]{.underline}](https://repl.it/)
+
+# Sexually Explicit Material
+
+The course list of resources provided on this syllabus are those which are planned to be used this school year in this course. As required by Virginia Code, parents/guardians must be notified when instructional resources which contain sexually explicit content are assigned for a classroom assignment at least thirty (30) days prior to the assignment being given to the student. As instructional needs of students may vary, additional resources may be determined to be used for instruction in this course. When this occurs, parents/guardians will also be notified of the use of the resource. Upon receipt of the notification, parents/guardians may ask to review the resource and, if desired, request an alternative resource to be used with their student.

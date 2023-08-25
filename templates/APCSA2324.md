@@ -17,25 +17,48 @@ Advanced Placement Computer Science is a rigorous course emphasizing programming
 
 - [[CodeHS]{.underline}](https://codehs.com/uploads/9f387437eb4a6e8385658ad050e33ac8)
 
-+--------------------------------+-------------------------------------+
-| **Semester 1**                 | **Semester 2**                      |
-+================================+=====================================+
-| Unit 0: Introduction to This   | Unit 6: Arrays                      |
-| Course                         |                                     |
-|                                | Unit 7: ArrayLists                  |
-| Unit 1: Primitive Types        |                                     |
-|                                | Unit 8: 2D Arrays                   |
-| Unit 2: Using Objects          |                                     |
-|                                | Unit 9: Inheritance                 |
-| Unit 3: Boolean Expressions    |                                     |
-| and if Statements              | Unit 10: Recursion                  |
-|                                |                                     |
-| Unit 4: Iteration              | Unit 11: Preparing for the AP Exam  |
-|                                |                                     |
-| Unit 5: Writing Classes        |                                     |
-|                                |                                     |
-+--------------------------------+-------------------------------------+
++-------------------------+----------------+------------------+-----------------+
+| **Unit # Name(s)**      | **Estimated    | **Formative      | **Summative     |
+|                         | Length/Dates** | Assessments      | Assessments     |
+|                         |                | (For Learning)** | (Of Learning)** |
++=========================+================+==================+=================+
+| Unit 0: Introduction    | ? Weeks        | See              | See             |
+| to This Course          |                | "Assessments"    | "Assessments"   |
++-------------------------+----------------+ below            + below           +
+| Unit 1: Primitive Types | ? Weeks        |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 2: Using           | ? Weeks        |                  |                 |
+| Objects                 |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 3: Boolean         | ? Weeks        |                  |                 |
+| Expressions and if      |                |                  |                 |
+| Statements              |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 4: Iteration       | ? Weeks        |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 5: Writing Classes | ? Weeks        |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 6: Arrays          | ? Weeks        |                  |                 |
+|                         |                |                  |                 | 
++-------------------------+----------------+                  +                 +
+| Unit 7: Array Lists     | ? Weeks        |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 8: 2D Arrays       | ? Week         |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 9: Inheritance     | ? Weeks        |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 10: Recursion      | ? Weeks        |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 10: Preparing      | ? Weeks        |                  |                 |
+| For The AP Exam         |                |                  |                 |                   
++-------------------------+----------------+------------------+-----------------+
 {% endblock %}
+
 
 {% block competencies %}
 Computer Programming standards are called competencies. You can find the competencies for

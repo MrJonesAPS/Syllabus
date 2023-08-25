@@ -13,28 +13,50 @@ AP Computer Science Principles offers a multidisciplinary approach to teaching t
 {% endblock %}
 
 {% block units_table %}
-**NOTE** Sections of this course will rely heavliy on existing high-quality online curricula. For more information about this content, see the syllabi for these two courses:
+**NOTE** Sections of this course will rely heavily on existing high-quality online curricula. For more information about this content, see the syllabi for these two courses:
 
 - [[CodeHS]{.underline}](https://codehs.com/uploads/9fcfd79abacd8ba0f0921ed91ed374cd)
 - [[Code.org + CMU CS Academy]{.underline}](https://drive.google.com/file/d/1jU1g_bLHz_b1joTzNUXP7yuwdvd7c_19/view)
 
-+--------------------------------+-------------------------------------+
-| **Semester 1**                 | **Semester 2**                      |
-+================================+=====================================+
-| Unit 0: Introduction to This   | Unit 5: Data                        |
-| Course                         |                                     |
-|                                | Unit 6: Groups, Lists, and Loops    |
-| Unit 1: Digital Information    |                                     |
-|                                | Unit 7: Complex Conditionals,       |
-| Unit 2: The Internet           |  More Events, and Libraries         |
-|                                |                                     |
-| Unit 3: Intro to Graphics      | Unit 8: Cybersecurity               |
-|                                |                                     |
-| Unit 4: Functions,             | Unit 9: Preparing for the AP Exam   |
-| Mouse Events, Conditionals     | and Performance Task                |
-|                                |                                     |
-|                                | Unit 10: Algorithms                 |
-+--------------------------------+-------------------------------------+
++-------------------------+----------------+------------------+-----------------+
+| **Unit # Name(s)**      | **Estimated    | **Formative      | **Summative     |
+|                         | Length/Dates** | Assessments      | Assessments     |
+|                         |                | (For Learning)** | (Of Learning)** |
++=========================+================+==================+=================+
+| Unit 0: Introduction    | ? Weeks        | See              | See             |
+| to This Course          |                | "Assessments"    | "Assessments"   |
++-------------------------+----------------+ below            + below           +
+| Unit 1: Digital         | ? Weeks        |                  |                 |
+| Information             |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 2: The             | ? Weeks        |                  |                 |
+| Internet                |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 3: Intro to        | ? Weeks        |                  |                 |
+| Graphics                |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 4: Functions, Mouse| ? Weeks        |                  |                 |
+| Events, and Conditionals|                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 5: Data            | ? Weeks        |                  |                 |
+|                         |                |                  |                 | 
++-------------------------+----------------+                  +                 +
+| Unit 6: Groups, Lists,  | ? Weeks        |                  |                 |
+| and Loops               |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 7: Complex         | ? Week         |                  |                 |
+| Conditionals, More      |                |                  |                 |
+| Events, Libraries       |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 8: Cybersecurity   | ? Weeks        |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 9: Preparing       | ? Weeks        |                  |                 |
+| For The AP Exam         |                |                  |                 | 
+| and Performance Task    |                |                  |                 |                  
++-------------------------+----------------+                  +                 +
+| Unit 10: Algorithms     | ? Weeks        |                  |                 |               
++-------------------------+----------------+------------------+-----------------+
 {% endblock %}
 
 {% block competencies %}

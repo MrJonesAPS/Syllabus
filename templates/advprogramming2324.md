@@ -13,20 +13,30 @@ Building on their foundation of programming skills, Advanced Programming student
 {% endblock %}
 
 {% block units_table %}
-+--------------------------------+-------------------------------------+
-| **Semester 1**                 | **Semester 2**                      |
-+================================+=====================================+
-| Unit 0: Introduction to This   | Unit 4: Data Types and Recursion    |
-| Course                         |                                     |
-|                                | Unit 5: Web and Mobile Applications |
-| Unit 1: Programming with       |                                     |
-| Python Review                  | Unit 6: Games                       |
-|                                |                                     |
-| Unit 2: Object Orientation     |                                     |
-|                                |                                     |
-| Unit 3: Databases              |                                     |
-|                                |                                     |
-+--------------------------------+-------------------------------------+
++-------------------------+----------------+------------------+-----------------+
+| **Unit # Name(s)**      | **Estimated    | **Formative      | **Summative     |
+|                         | Length/Dates** | Assessments      | Assessments     |
+|                         |                | (For Learning)** | (Of Learning)** |
++=========================+================+==================+=================+
+| Unit 0: Introduction    | ? Weeks        | See              | See             |
+| to This Course          |                | "Assessments"    | "Assessments"   |
++-------------------------+----------------+ below            + below           +
+| Unit 1: Python Review   | ? Weeks        |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 2: Object          | ? Weeks        |                  |                 |
+| Orientation             |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 3: Databases       | ? Weeks        |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 4: Data Types and  | ? Weeks        |                  |                 |
+| Recursion               |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 5: Web and Mobile  | ? Weeks        |                  |                 |
+| Applications            |                |                  |                 | 
++-------------------------+----------------+                  +                 +
+| Unit 6: Games           | ? Weeks        |                  |                 |       
++-------------------------+----------------+------------------+-----------------+
 {% endblock %}
 
 {% block competencies %}

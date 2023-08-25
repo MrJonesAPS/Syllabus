@@ -32,38 +32,38 @@ organizations.
 |                         | Length/Dates** | Assessments      | Assessments     |
 |                         |                | (For Learning)** | (Of Learning)** |
 +=========================+================+==================+=================+
-| Unit 0: Introduction    | 2 Weeks        | Daily Coding     | Unit Test       |
-| to This Course          |                | Activities       |                 |
-+-------------------------+----------------+------------------+-----------------+
-| Unit 1: Introduction    | 2 Weeks        | Daily Coding     | Unit Test       |
-| to Computer Programming |                | Activities       |                 |
-+-------------------------+----------------+------------------+-----------------+
-| Unit 2: Number          | 4 Weeks        | Daily Coding     | Unit Test       |
-| Calculations and Data   |                | Activities       |                 |
-+-------------------------+----------------+------------------+-----------------+
-| Unit 3: Making Decisions| 4 Weeks        | Daily Coding     | Unit Test       |
-|                         |                | Activities       |                 |
-+-------------------------+----------------+------------------+-----------------+
-| Unit 4: Repetition and  | 3 Weeks        | Daily Coding     | Unit Test       |
-| Loops                   |                | Activities       |                 |
-+-------------------------+----------------+------------------+-----------------+
-| Unit 5: Graphics        | 5 Weeks        | Daily Coding     | Unit Test       |
-|                         |                | Activities       |                 |
-+-------------------------+----------------+------------------+-----------------+
-| Unit 6: Functions       | 3 Weeks        | Daily Coding     | Unit Test       |
-|                         |                | Activities       |                 | 
-+-------------------------+----------------+------------------+-----------------+
-| Unit 7: Arrays          | 3 Weeks        | Daily Coding     | Unit Test       |
-|                         |                | Activities       |                 |
-+-------------------------+----------------+------------------+-----------------+
-| Unit 8: 2D Arrays       | 1 Week         | Daily Coding     | Unit Test       |
-|                         |                | Activities       |                 |
-+-------------------------+----------------+------------------+-----------------+
-| Unit 9: Internet        | 2 Weeks        | Daily Coding     | Unit Test       |
-|                         |                | Activities       |                 |
-+-------------------------+----------------+------------------+-----------------+
-| Unit 10: Additional     | 3 Weeks        | Daily Coding     | Unit Test       |
-| Topics in               |                | Activities       |                 |
+| Unit 0: Introduction    | 2 Weeks        | See              | See             |
+| to This Course          |                | "Assessments"    | "Assessments"   |
++-------------------------+----------------+ below            + below           +
+| Unit 1: Introduction    | 2 Weeks        |                  |                 |
+| to Computer Programming |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 2: Number          | 4 Weeks        |                  |                 |
+| Calculations and Data   |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 3: Making Decisions| 4 Weeks        |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 4: Repetition and  | 3 Weeks        |                  |                 |
+| Loops                   |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 5: Graphics        | 5 Weeks        |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 6: Functions       | 3 Weeks        |                  |                 |
+|                         |                |                  |                 | 
++-------------------------+----------------+                  +                 +
+| Unit 7: Arrays          | 3 Weeks        |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 8: 2D Arrays       | 1 Week         |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 9: Internet        | 2 Weeks        |                  |                 |
+|                         |                |                  |                 |
++-------------------------+----------------+                  +                 +
+| Unit 10: Additional     | 3 Weeks        |                  |                 |
+| Topics in               |                |                  |                 |
 | Computer Science        |                |                  |                 |              
 +-------------------------+----------------+------------------+-----------------+
 {% endblock %}
