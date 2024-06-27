@@ -1,4 +1,4 @@
-{% extends "syllabus_template.md" %}
+{% extends "wakefield_syllabus_template.md" %}
 
 {% block coursename %}AP Computer Science A{% endblock %}
 
