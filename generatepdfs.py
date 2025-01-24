@@ -26,7 +26,7 @@ class RelativeInclude(Extension):
 
     def __init__(self, environment):
         super(RelativeInclude, self).__init__(environment)
-        self.matcher = re.compile("\.*")
+        self.matcher = re.compile("\\.*")
 
     def parse(self, parser):
         node = parser.parse_include()
