@@ -46,7 +46,7 @@ class RelativeInclude(Extension):
 
 # Setup environment for Jinja
 env = Environment(
-    loader=FileSystemLoader("templates"),
+    loader=FileSystemLoader("templates/25_26"),
     extensions=[RelativeInclude],
     trim_blocks=True,
     lstrip_blocks=True,
